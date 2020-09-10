@@ -1,0 +1,215 @@
+﻿S.No,Dashboard Name/Title,Description or Aims/Objectives,Link,Coverage Since,Developed by,Update Frequency,Data Sources,Open Source,Technical Details,Visualization Support Type,Visualization Technology,Regional Coverage,Metadata Retrieval,Export/Share Options,Backlinks,Target Users,Accept Public Input,Dashboard Data Attributes Shown,Unique & Prominent Features,Pros: ,Cons: ,Desirable Features/Recommendations
+1,JHU Coronavirus Resource Center,An interactive web-based dashboard to visualize and track reported cases in real-time.,https://coronavirus.jhu.edu/,2020-01-01,Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU),"D, R","Curated by CSSE team
+",No,"On website
+Data and code also available","MouseOverDataDisplayInfographic, 
+InteractiveMap,
+Tables,
+LineChart,
+BaseMap,
+Menus,
+","Plotly,PHP, Modernizr,",Global,Y,"F,T,L,E","6,150,102","Public, data scientists, medical science researchers",NA,"T, D, .Presumptive positive cases and probable cases, Death totals in the US and Globally, AC, Incidence Rate = confirmed cases per 100,000 persons, Case-Fatality Ratio (%) = Number recorded deaths / Number confirmed cases, US Testing Rate and Results: = total test results per 100,000 persons, US Hospitalization Rate (%): = Total number hospitalized / Number confirmed cases, Time Zones: lower-left corner indicator - your local time; lower-right corner plot - UTC, Point level: County level (Admin0) - 
+
+","1. The most comprehensive portal/dashboard, showing data globally 
+2. Country wise cases, death and trends is shown
+3. Links to other useful resources e.g. Complete guide on how to prepare for the corona outbreak etc. 
+4. Links to other useful information 
+5. Most of the other available Dashboard uses Johns Hopkins data as their main data source
+6. Shows critical trends and maps
+7. Give information about COVID-19 BASICS with videos and live events. 
+8. Provide data of testing Insight 
+9. Line graph shows confirmed and daily cases
+US; Province/State level (Admin1) - China, Canada, Australia, Germany, Italy, Spain, Mexico, Brazil, Chile; Country level (Admin2) - other countries. All points (except for Australia and Italy) shown on the map are based on geographic centroids, and are not representative of a specific address, building or any location at a spatial scale finer than a province/state, Australian and Italian dots are located at the centroid of the largest city in each state.","popular, 
+primary source of information for people eager to get real-time updates on the virus's reach and impact,
+data consistent,
+data accurate, 
+Taking into account people's concern and fears, 
+Minimal complaints about the data presented. 
+Visitors hailing from nearly every country in the world,
+Many other dashboards around the world have emulated this design,
+Offers global look at the desires, 
+near real-time updates, 
+mobile version
+","A very big and comprehensive dashboard and feels cumbersome to navigate, 
+no information on history of cases for any location.","Information about travel advisory in US or worldwide should be included, 
+Case history information should be included,
+"
+2,Our World in Data: COVID-19,"Global data on confirmed cases, total deaths, risk factors, travel controls, testing, and other factors for COVID-19 since its outbreak.
+
+Useful for daily updated research, analyses, latest reports,  and data",https://ourworldindata.org/coronavirus,2020-01-01,Collaboration between researchers at  University of Oxford and the non-profit organization Global Change Data Lab,D,European Center for Disease Prevention and Control (ECDC),Yes,"On website
+Data and code also available","LineChart,
+InteractiveMap,
+MouseOverDataDisplayInfographic, 
+Tables,
+"," OpenGraphProtocol, Polyfill IO, CSS, Iframe,",Global,Y,"CSV,","270,243","Policy-makers, data scientists, statisticians, human and social science researchers",NA,"D, T, C,  GR, DR, 7-day rolling average, NC, count per million people, ","1. Open-source 
+2. Data is freely available
+3. Maps to see various attributes e.g. closure of schools, workplace, government response country wise and continent wise. ","1. Daily updated world data available to download. 
+2. Risk Factors for the coronavirus diseases are discussed. 
+3. Country wise profile available - reliable, global and opened data and research on how the covid-19 pandemic is spreading. 
+4. Preventive measures information are given in detail. 
+5. Gives links to tools for how to use the data and charts given on the dashboard. 
+6. Interesting maps to show stay-at-home requirements during the covid-19 pandemic
+7. Data on school closures during the covid-19. 
+8. Workplace closures during covid-19 worldwide data given. 
+9. Maps data can be seen country wise as well as continent wise. ",The website is not user friendly and difficult to navigate for specific information. ,
+3,Worldometer: COVID-19 CORONAVIRUS PANDEMIC,"Worldometer manually analyzes, validates, and aggregates data from thousands of sources in real-time 
+and provides global COVID-19 live statistics.",https://www.worldometers.info/coronavirus/,2020-01-01,"Worldometer is run by an international team of developers, researchers, and volunteers
+Parent: Dadax Limited based in the United States","D, R","Official websites of ministries of health or other government institutions and government authorities' social media accounts, daily reports released by local authorities, press briefings' live streams throughout the day, 
+news wires, the data reported by governments in live press conferences",No,"On website
+Data and code also available","1. On screen information with numbers & Line graphs
+2. Linear and logarithmic bar graphs
+3. Distribution of cases showed with Pie chart. 
+4. Interactive world map showing cases per country and date wise per country. ","ArcGIS, OpenGraphProtocol ",Global,Y,"T,F,E","Worldometer is cited as a source in over 10,000 
+published books and in more than 6,000 
+professional journal articles.
+8,943,983 backlinks","Public, Statisticians, Researchers,",NA,"C = reported total cumulative count of detected
+Confirmed positive, presumptive, suspect or probable
+reported, AC, CC, D, CLC, NC, ND, T,  
+Test per 1 M population
+Case progression by country
+Cases: Europe vs. USA
+Death progression by country
+Deaths: Europe vs. USA
+Countries Case Distribution, R, and Discharged
+Newly Infected vs. Newly Recovered
+Serious and Critical Cases
+Outcome of Cases (Recovery or Death)
+Case Timeline, I","1. We collect and process data around the clock, 24 hours a day, 
+7 days a week. Multiple updates per minute are performed on average by our team of analysts and researchers who validate the data from an ever-growing list of over 5,000 sources under the constant solicitation of users who alert us as soon as an official announcement is made anywhere around the world.
+2. Country wise data of all the attributes as mentioned in column N. 
+3. Graphs for each country","1. It is available in 34 languages and covers subjects such as world population, 
+government, economics, society, media, environment, food, water, energy, and health.[8]
+2. In 2020, the website attained greater popularity due to hosting statistics relating to the COVID-19 pandemic.
+3. Worldometer' COVID-19 figures have also been cited by Financial Times, The New York Times, The Washington Post, Fox News and CNN.[10].
+4. Their main focus seems to be having the latest number [of COVID-19 cases] wherever it comes from, whether it’s reliable or not, whether it’s well-sourced or not.""[10]
+5. According to Axios, the website was the #28 most visited website in the world in April 2020. 
+6. Worldometer was voted as one of the best free reference websites by the American Library Association (ALA), the oldest and largest library association in the world.
+7. Worldometer is a provider of global COVID-19 statistics for many caring people around the world. Our data is also trusted and used by the UK Government, Johns Hopkins CSSE, the Government of Thailand, the Government of Pakistan, the Government of Sri Lanka, Government of Vietnam, Financial Times, The New York Times, Business Insider, BBC, and many others.
+8. Worldometer Covid-19 data is trusted and used by Johns Hopkins CSSE, Financial Times, The New York Times, Business Insider, and many others.","1. Worldometer has faced criticism over transparency of ownership, lack of citations
+to data sources, and unreliability of its COVID-19 statistics and rankings.[10] The website reported that 18,000 people recovered from coronavirus in Spain on April 24, compared to the Spanish government figure of 3,105 recoveries for that day.[10]
+2. Virginia Pitzer, a Yale University epidemiologist, said that the site is ""legitimate"", but flawed, inconsistent, and containing errors.[10]",
+4,"The Net York Times
+Coronavirus Map: Tracking the Global Outbreak",The most comprehensive Global Map of Corona Virus Outbreak updates. ,https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html,2020-01-01,The New York Times data science team,D,"Local governments, NHC of the PRC, CSSE/JHU, WHO",Yes,On website,"LineChart,
+MouseOverDataDisplayInfographic,
+CloudInformation,
+Tables,
+LineTrendingGraphs,
+SocialGraphs,
+
+","OpenGraphProtocol, CSS, JavaScript ",Global,Y,"F,T,L,E","143,564","Public, Journalist, Researchers ",NA,"C, D, NC, HotSpots, CasesRisesPerCapita, PD, DR,
+US detailed statistics and data case count etc,
+Also shows 14-Days trend of each individual country on the Interactive map, 
+Country wise trends using graphs  - total cases and cases per capita, cases decrease or increase etc,
+Probable cases of death for US
+Links to other useful information e.g. .World Deaths, Reopening, Vaccines, Testing and Nursing Homes are given, 
+Links to Reopening and closings Economy and Markets, 
+Other Covid-19 related news and information given on the portal. 
+
+
+","1. The most comprehensive portal/dashboard, showing data globally 
+2. Country wise cases, death and trends is shown
+3. Links to other useful resources e.g. Complete guide on how to prepare for the corona outbreak etc. 
+4. Links to other useful information e.g. .World Deaths, Reopening, Vaccines, Testing and Nursing Homes are given. 
+5. In US state by state detailed information are given. 
+6. Very easy to understand and attractive design with good maps and graphics and graphs. 
+7. Opening and closing of different states information given using interactive map. 
+8. Live Updates
+7.individually Around 10 countries data is covered including Canada, Brazil,
+India, Mexico, U.K, Germany, Spain, France. 
+Global outbreak: Total cases & Total Deaths - Live updates
+2. Maps, country table 
+
+5. Analysis of past data (two weeks)"," Comprehensive details of Global Covid-19 outbreak, 
+cases and deaths,
+Very attractive and easy to follow maps and charts,
+Live frequently updates ,
+Provides links to other related information about covid-19,
+Links to The Covid Tracking Project,
+Information that how each major continent has been affected and how they ar trying to contain the virus,
+Clear,
+easy to understand, 
+Neat color scheme,
+Introductory information to the crisis,
+
+","extra specific detail information is available one for 10 countries,
+not updates in real time,
+no interactive features,
+ 
+",
+5,Global Coronavirus COVID-19 Clinical Trial Tracker,"Consolidating COVID-19 trial information, make vital information easily and widely available, helping fellow researchers work efficiently and plan trials",https://www.covid-trials.org/,2020-05-01,"Cytel, co-partnered by Bill & Melinda Gats Foundation, Johns Hopkins University, Harvard Univeristy and McMaster University",W,"WHO International Clinical Trials Registry Platform,
+European, Chinear, Germain, Japaneses, Iranian, Australian and New Zeanald Clinical Trials Registries, clinicaltrials.gov",No,"On website
+Data also available","InteractiveMap,
+MouseOverDataDisplayInfographic,
+NetwokrGraph,
+LineChart,
+SummaryPlot,
+BarChart,
+","Shiny, Leaflet, JavaScript
+",Global,NA,CSV,994,"Researchers, policy-makers",NA,"Visual representation of how the evidence is connected overall,
+Country wise trial data,
+Treatment data,
+Completed trials status,
+Trial status unclear data,
+Suspended trials data,
+ ","1.  to identify registered trials investigating the use interventional strategies for the treatment of COVID-19, or COVID-19 related symptoms.
+2. Trials directly comparing therapies to one another are represented by nodes (treatments) and lines (comparisons between treatments).
+3. Interactive charts/graphs
+4. Links to the trial region/place with date is given.
+5. A number of filter options are available to customize data visualization. ","1. The COVID-19 Clinical Trial Tracker allows for a more nuanced understanding of 
+the trials taking place in the international effort to tackle the COVID-19 pandemic.
+2. Highly customizable interface e.g. Data extraction based on trial status, patient setting, study design, country wise, outcome wise, age groups, institution and even province et. 
+3. Trail data can be export in CVS format. ","1. The interface of the dashboard is very complex and huge amount of data is 
+shown.
+",1. The interface could be made more user friendly. 
+6,IHME COVID-19 Projections,"Projections for total and daily deaths, daily infections and testing, hospital resource use, and social distancing",https://covid19.healthdata.org/,2020-03-30,Institute for Health Metrics and Evaluation (IHME),Weekly or depending on data,"Local and national governments, hospital networks and associations, the World Health Organization, third-party aggregators",No,"On website
+Forecast estimates can be downloaded",Various projections as line graphs,Javascript/SVG,Global,,,"245,631",Policymakers,,"Projections for: total deaths, daily deaths, infections and testing, hospital resource use, social distancing",,,,
+,COVID-19 Projections Using Machine Learning,Data-driven approach rooted in epidemiology to forecast infections and deaths from the COVID-19 epidemic,covid19-projections.com/,,,,,,,,,,,,,,,,,,,
+7,Genomic epidemiology of SAR-CoV-2,"Real-time tracking of pathogen evolution, information about the scientific and public health potential of pathogen genome data",https://nextstrain.org/sars-cov-2,2019-12-01,Nextstrain,D,"Various Research Groups around the world, ",Yes,"On website and in research article [h49],
+Data and code also available","InteractiveMap,
+MouseOverDataDisplayInfographic,
+LineChart,
+TreeLayout,
+Map,
+Entropy,
+
+",HTML/Javascript,Global,Y [MZK 9],NA,"4,778","Genetics researchers, virologists, epidemiologists,  public health officials, and community scientists","No, contribution of bug repots, features requests, 
+data submission, scientific interpretations, 
+language translations, and software development work,
+portals available for communication of the above","Real-time snapshots of evolving pathogen populations, 
+genomic tree, 
+Genomic epidemiology of coronavirus, 
+Phylogeny region wise and geography wise, 
+Filter by submission date; clade; region; country; Admin Division; location; and Host,
+
+
+","incorporating SARS-CoV-2 genomes as soon as they are shared and providing analyses and situation reports,
+Data and Code available on GitHub for public use,
+a new genetic tool maps how deadly viruses spread around the world,
+aim to allow exploration of continually up-to-date datasets, providing a novel surveillance tool to the scientific and public health communities,
+Latest Nextstrain COVID-19 situation report in English and in other languages.
+The phylogeny shows an initial emergence in Wuhan, China, in Nov-Dec 2019 followed by sustained human-to-human transmission leading to sampled infections,
+ give an overview of viral mutations and what they mean (and don't mean) for the COVID-19 pandemic.
+
+
+","Nextstrain uses genetic data from viruses to help scientists track the spread of disease outbreaks,
+Nextstrain provides an open-source toolkit enabling the bioinformatics and visualization 
+""NextStrain’s dashboard is by far the most technical and provides a very niche collection of information and data from labs around the world that are sequencing the coronavirus genome"", 
+""here are also options to display the genomic tree through different formats, in addition to an animated timeline of worldwide transmissions and data filters to view data by location, administrative division, country, authors, or submitting labs.""","Phylogeny is shown for only six regions, 
+Data interpretation is not easy for general public, scientific analysis and data",
+8,Penn COVID-19 US Twitter Map,"Tracks disease symptoms, mental conditions, sentiments and healthcare topics mentions on Twitter related to COVID-19","https://www.arcgis.com/apps/opsdashboard/index.html#
+/abb41818160d4cec91f604520a088349","2020-05-08	",Penn Medicine Center for Digital Health and the World Well-Being Project,D,"Tweets collected from Twitter API, CSSE/JHU",No,Research article [MZK 5],"LineChart,
+BarChart,
+InteractiveMap, 
+InformationWindow
+", ArcGIS,USA,NA,"NA
+",NA,"Public, researchers, policy-makers",NA,"Change in anxiety, sentiment, loneliness, Common topics on twitter in US: healthcare panic buying, politics and economic concerns, Top symptom mentions on twitter in the US: Trouble berating, fever, body ache and fatigue, smell/taste loss, Nausea, cold and skin lesions, COVID tweets per capita - data wise, T, C1MP, D, T1MP, ","Provides interesting details about the Tweets trends across US. 
+Information about Twitter Sentiment across the US
+Mobile version available 
+Shows the latest trends in topics on twitter related to COVID. 
+Twitter sentiment, engagement and cases per 1 Million across the US using Map",1. Analysis of Twitter data and trends across USA related to covid-19.,1. Information related only to USA - not worldwide. ,"1. It would be interesting to see the same data analysis for world wise data. 
+2. Country wise trends on twitter should be included. "
+9,Tracking of Emotional Expressions,Tracks emotional expressions data of Austrians using Twitter,http://www.mpellert.at/covid19_monitor_austria/,2020-04-22,Researchers at Medical University Of Vienna,D,"derstandard.at, Twitter",No,Article [h1],"LineChart, WordCloud,","Flexdashboard, Plotly
+",Austria,NA,NA,7,Public and policy-makers,NA,"Anger, Anxiety, Sadness, SocialTerms, PositiveEmotions, ProsocialTerms","1. Automated text analysis for emotion extraction
+2. Real-time analytics","1.  Analysis of emotion dynamics
+2. Detection & modelling of collective emotions","1. No customizations 2. Statics 3. Too many overlapping lines
+2. Analysed data only for Twitter Social Media","This web app only shows a single chart. Detail options are needed to
+included to call it a complete dashboard. "
